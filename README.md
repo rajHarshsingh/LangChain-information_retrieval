@@ -1,6 +1,8 @@
 This streamlit application enables the user to query information from pdf files(s) provided by him/her. This application utilises OpenAI API and LangChain.
 
-To run the application in your system, create a virtual environment in the working directory by:
+To run the application in your system, clone this repository in your system.
+
+Create a virtual environment in the working directory by:
 conda create -p venv python=3.10 -y
 
 activate the venv and install the dependencies by:
